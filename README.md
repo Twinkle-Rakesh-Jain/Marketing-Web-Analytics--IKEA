@@ -3,6 +3,9 @@
 ## Project Description
 This project aimed to assess IKEA's online performance and drive sustainable revenue growth by analyzing web analytics data from October 2021 and October 2022. Using Google Analytics, we examined key performance indicators (KPIs) across sessions, conversion rates, and revenue, segmented by demographics and devices, to refine marketing strategies and enhance user experience.
 
+![image](https://github.com/user-attachments/assets/fc1f741d-8808-4175-bae5-0e4d10265756)
+
+
 ## Project Execution
 ### 1. Data Collection and KPI Analysis:
 
